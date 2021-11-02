@@ -7,3 +7,9 @@ Hello World
 $ gcc hello.c -o hello
 $ ./hello
 ```
+
+## go
+
+```
+$ go run hello.go
+```
